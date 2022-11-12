@@ -1,3 +1,3 @@
-module go-utils
+module goUtils
 
 go 1.18
